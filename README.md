@@ -9,6 +9,7 @@ Kaggle : https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekh
 * Why are so many predictions negative? 
 * Why is intercept so large? What does that mean? `66008680.43`
 * How can we further improve the model? 
+* Should I've used a dataset from different file?
 
 ### TODOs
 - [ ] Clean up the modeling Jupyter Notebook.
