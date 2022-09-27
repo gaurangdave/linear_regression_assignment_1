@@ -12,6 +12,6 @@ Kaggle : https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekh
 * Should I've used a dataset from different file?
 
 ### TODOs
-- [ ] Clean up the modeling Jupyter Notebook.
+- [X] Clean up the modeling Jupyter Notebook.
 - [ ] Improve the model to provide more accurate predictions and better scores. 
 - [ ] Create python app for dynamic predictions. 
